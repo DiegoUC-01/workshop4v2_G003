@@ -1,4 +1,4 @@
-from workshop4v2_G003.functions import add, convert_to_integer, divide, get_element
+from functions import add, convert_to_integer, divide, get_element
 
 
 def test_add_numbers():
